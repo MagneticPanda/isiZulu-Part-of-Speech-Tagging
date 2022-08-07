@@ -1,6 +1,8 @@
 # About
 Part-of-speech (POS) tagging is a popular Natural Language Processing process which refers to categorizing words in a text (corpus) in correspondence with a particular part of speech, depending on the definition of the word and its context. Part-of-speech tags describe the characteristic structure of lexical terms within a sentence or text, therefore, we can use them for making assumptions about semantics.
 
+![eight-parts-speech_0066f46bde](https://user-images.githubusercontent.com/71750671/182952180-456a6df4-8389-4e94-862f-7822bc83d738.jpg)
+
 A part-of-speech (POS) task was used to validate or invalidate the general view that Conditional Random Fields
 (CRF) perform better than Hidden Markov Models (HMM). The testing was performed as a Part of
 Speech (POS) sequence labelling task. This project presents
